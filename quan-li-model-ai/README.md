@@ -13,7 +13,7 @@ Bảng 2 cột:
 |logs |Log vận hành model AI |
 
 ```PowerShell
-ls -Force 
+ls -Recurse -Force 
 ```
 - [x] Sắp xếp thư mục dự án 
 - [ ] Upload dự án lên GiHub
